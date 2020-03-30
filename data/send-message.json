@@ -1,0 +1,15 @@
+{
+  "username": "arjones",
+  "year": 2020,
+  "command": "testing-sqs",
+  "data": {
+    "more": 12345,
+    "other": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
